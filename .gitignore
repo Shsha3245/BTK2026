@@ -1,0 +1,51 @@
+# ==========================================
+# 1. PYTHON & BACKEND KURALLARI (KÖK DİZİN)
+# ==========================================
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ==========================================
+# 2. FRONTEND KURALLARI (NEXT.JS)
+# ==========================================
+# Bağımlılıklar
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.*
+frontend/.yarn/*
+
+# Derleme Çıktıları ve Testler
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/coverage/
+
+# TypeScript & Vercel
+frontend/*.tsbuildinfo
+frontend/.vercel/
+
+# Debug Logları
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# ==========================================
+# 3. GENEL / ORTAK KURALLARI (HER YERDEKİ)
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+**/.env*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.pem

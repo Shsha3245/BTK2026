@@ -1,0 +1,6 @@
+[
+  {"name": "BIST 100", "type": "Hisse", "risk": "Yüksek", "annual_return": "%45"},
+  {"name": "Altın (Gram)", "type": "Emtia", "risk": "Orta", "annual_return": "%65"},
+  {"name": "Para Piyasası Fonu", "type": "Likit", "risk": "Çok Düşük", "annual_return": "%42"},
+  {"name": "Eurobond", "type": "Tahvil", "risk": "Orta", "annual_return": "%35 (USD bazlı)"}
+]
