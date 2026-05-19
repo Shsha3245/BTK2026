@@ -1,6 +1,6 @@
 # 🚀 NEO-ADVICE AI — Yapay Zekâ Destekli Stratejik Varlık Dağılımı ve Portföy Optimizasyon Platformu
 
-**2026 BTK Hackathonu** kapsamında geliştirilen **NEOSENS**, yatırımcıların yaş, hedef bütçe ve risk toleranslarını analiz ederek onlara canlı piyasa verileri ve gelişmiş AI algoritmalarıyla optimize edilmiş stratejik varlık dağılım önerileri sunan tam katmanlı (Full-Stack) bir finansal teknoloji çözümüdür.
+**2026 BTK Hackathonu** kapsamında geliştirilen **NEO-ADVICE AI**, yatırımcıların yaş, hedef bütçe ve risk toleranslarını analiz ederek onlara canlı piyasa verileri ve gelişmiş AI algoritmalarıyla optimize edilmiş stratejik varlık dağılım önerileri sunan tam katmanlı (Full-Stack) bir finansal teknoloji çözümüdür.
 
 Platform, modern bir **Next.js** frontend arayüzü ile güçlü ve asenkron bir **FastAPI** backend mimarisini monorepo yapısında bir araya getirir.
 
